@@ -1,0 +1,16 @@
+Please follow the following instructions for  Day 9_Spring_Section 2_Demo 2
+
+1. Import the java project.  
+
+2. For first demo, java files namely, 'Application.java' and 'LoginController.java' will be imported under the folder src/main/java within a package namely, com.edureka.spring.
+
+3. Go ahead and run the test file 'ApplicationTests.java' which is placed under the folder src/test/java within a package namely, com.edureka.spring
+
+4. To run the first test, open the file 'ApplicationTests.java' and right click on the class name 'shouldReturnLoginSuccesss()'.
+    From the drop-down menu, choose the option, 'Run as gradle test'.
+
+5. To run the second test, open the file 'ApplicationTests.java' and right click on the class name 'shouldReturnLoginSuccesssWithRequestParam()'.
+    From the drop-down menu, choose the option, 'Run as gradle test'.
+
+6. To run the third test, open the file 'ApplicationTests.java' and right click on the class name 'shouldReturnStaticResources()'.
+    From the drop-down menu, choose the option, 'Run as gradle test'.
